@@ -1,0 +1,32 @@
+{
+  "parent" : "minecraft:recipes/root",
+  "rewards" : {
+    "recipes" : [
+      "reptiliophile:chameleon_cloak"
+    ]
+  },
+  "criteria" : {
+    "has_chameleon_skin" : {
+      "trigger" : "minecraft:inventory_changed",
+      "conditions" : {
+        "items" : [
+          {
+            "item" : "reptiliophile:chameleon_skin"
+          }
+        ]
+      }
+    },
+    "has_the_recipe" : {
+      "trigger" : "minecraft:recipe_unlocked",
+      "conditions" : {
+        "recipe" : "reptiliophile:chameleon_cloak"
+      }
+    }
+  },
+  "requirements" : [
+    [
+      "has_chameleon_skin",
+      "has_the_recipe"
+    ]
+  ]
+}

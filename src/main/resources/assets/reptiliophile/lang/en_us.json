@@ -1,0 +1,21 @@
+{
+  "entity.reptiliophile.chameleon" : "Chameleon",
+  "entity.reptiliophile.bearded_dragon" : "Bearded Dragon",
+  "entity.reptiliophile.iguana" : "Iguana",
+
+
+
+  "item.reptiliophile.bearded_dragon_spawn_egg" : "Bearded Dragon Spawn Egg",
+  "item.reptiliophile.chameleon_spawn_egg" : "Chameleon Spawn Egg",
+  "item.reptiliophile.iguana_spawn_egg" : "Iguana Spawn Egg",
+
+  "item.reptiliophile.chameleon_eye" : "Chameleon Eye",
+  "item.reptiliophile.chameleon_skin" : "Chameleon Skin",
+  "item.reptiliophile.chameleon_cloak" : "Chameleon Cloak",
+  "item.reptiliophile.fang" : "Fang",
+  "item.reptiliophile.antidote" : "Antidote",
+
+
+
+  "death.attack.reptiliophile:venom" : "%s died of venom poisoning"
+}

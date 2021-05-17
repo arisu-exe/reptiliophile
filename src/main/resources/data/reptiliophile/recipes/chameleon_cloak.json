@@ -1,0 +1,16 @@
+{
+  "type" : "minecraft:crafting_shaped",
+  "pattern" : [
+    "X X",
+    "XXX",
+    "XXX"
+  ],
+  "key" : {
+    "X" : {
+      "item" : "reptiliophile:chameleon_skin"
+    }
+  },
+  "result" : {
+    "item" : "reptiliophile:chameleon_cloak"
+  }
+}
